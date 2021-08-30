@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Empleados</title>
+    <title>Empleados DesWeb Php</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -59,7 +59,7 @@
                 </select>
               </div>
               <div class="mb-3">
-                <label for="lbl_fn" class="form-label"><b>Fecha Nacimiento</b></label>
+                <label for="lbl_fn" class="form-label"><b>Fecha Nac</b></label>
                 <input type="date" name="txt_fn" id="txt_fn" class="form-control" placeholder="aaaa-mm-dd" required>
               </div>
               <div class="mb-3">
